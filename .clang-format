@@ -36,7 +36,6 @@ BraceWrapping:
   SplitEmptyNamespace: false
 BreakBeforeBinaryOperators: None
 BreakBeforeBraces: Custom
-
 BreakBeforeTernaryOperators: true
 BreakInheritanceList: AfterColon
 BreakConstructorInitializers: AfterColon
